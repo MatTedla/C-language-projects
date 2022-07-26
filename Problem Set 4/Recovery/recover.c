@@ -79,7 +79,6 @@ int main(int argc, char *argv[])
         {
             fwrite(&buffer, 512, 1, img);
         }
-
     }
     fclose(img);
     fclose(f);
