@@ -1,3 +1,5 @@
+// user inputs name, outputs greeting
+
 #include <cs50.h>
 #include <stdio.h>
 
