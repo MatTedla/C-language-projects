@@ -1,3 +1,5 @@
+// alters colours of bitmap file to decipher hidden message
+
 #include <stdio.h>
 #include <stdlib.h>
 
