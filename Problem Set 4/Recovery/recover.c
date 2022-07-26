@@ -1,3 +1,5 @@
+// generates JPEG from provided forensic image
+
 #include <stdio.h>
 #include <stdlib.h>
 
