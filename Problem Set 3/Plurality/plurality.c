@@ -1,3 +1,5 @@
+// runs a plurality election; user prompted for candidate names and votes per person
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
