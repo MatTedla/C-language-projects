@@ -1,3 +1,5 @@
+// applies different photographic filters to BMP files
+
 #include "helpers.h"
 #include <stdlib.h>
 #include <math.h>
