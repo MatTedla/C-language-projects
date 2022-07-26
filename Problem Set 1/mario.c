@@ -1,3 +1,5 @@
+// users inputs integer from 1 to 8, outputs a pyramid of height equal to input
+
 #include <cs50.h>
 #include <stdio.h>
 
