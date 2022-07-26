@@ -1,3 +1,5 @@
+// prompts user for credit card number, checks whether input is valid MasterCard, American Express or Visa card number
+
 #include <cs50.h>
 #include <stdio.h>
 
